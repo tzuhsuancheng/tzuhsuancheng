@@ -3,8 +3,8 @@ I am an MBA student who is passionate about analyzing data to drive business dec
 
 ## ⚡ Data Science Projects
 - *Linear Regression*: [Customer-Retention-Analysis-of-Online-Booking-Platform](https://github.com/tzuhsuancheng/retention-analysis)
-- *Classification* : [Adoption-Speed-Prediction](https://github.com/tzuhsuancheng/Statistical-Learning)
-- *NLP*: [Industry-&-Occupation-Prediction](https://github.com/tzuhsuancheng/Statistical-Learning)
+- *Classification* : [Adoption-Speed-Prediction](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/Final-project/project_petfinder.pdf)
+- *NLP*: [Industry-&-Occupation-Prediction](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/Kaggle-competition/Final.ipynb)
 
 
 ## 📝 Tips & Notes
