@@ -2,7 +2,9 @@
 I am an MBA student who is passionate about analyzing data to drive business decisions. My goal is to possess a combination of both business and technical skills that enables me to ask relevant business questions, perform quality analyses and effectively share results to business stakeholders. My repositories contain my personal data science projects, programming and statistics notes. I hope you may find them useful.
 
 ## ⚡ Data Science Projects
-- *Linear Regression*: [Customer-Retention-Analysis-of-Online-Booking-Platform](https://github.com/tzuhsuancheng/retention-analysis)
+- *Customer Analysis*: 
+  - [Customer-Retention-Analysis-of-Online-Booking-Platform](https://github.com/tzuhsuancheng/retention-analysis)
+  - [Tmall-Double11-Repeat-Buyers-Prediction](https://github.com/tzuhsuancheng/Tmall-Double11-Repeat-Buyers-Prediction)
 - *Classification* : [Adoption-Speed-Prediction](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/Final-project/project_petfinder.pdf)
 - *NLP*: [Industry-&-Occupation-Prediction](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/Kaggle-competition/Final.ipynb)
 
